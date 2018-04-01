@@ -135,3 +135,4 @@ elif t4 > t1 and t4 > t2 and t4 > t3:
     write('!!!! ROCKY WINS !!!!')
 else:
     write('-----------DRAW-----------')
+done()
