@@ -1,3 +1,3 @@
 # Turtle-race
--must have python installed in system
--just run the code
+- must have python installed in system
+- just run the code
